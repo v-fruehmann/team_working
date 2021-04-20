@@ -7,6 +7,6 @@
 1. ноутбук с кодом для парсинга 'parcing.py'
 2. ноутбук с решением 'car_price_prediction.ipynb'
 3. файл с submission  'submission_v3.csv'
-4. собранный датасет 'df_cars_final.csv' весит 180 MB(в сжатом виде 30 MB), что превышает допустимый размер файла до 100 MB (в сжатом виде до 25 MB) и  не может быть загружен на GitHub, прилагаем ссылку для скачивания: https://drive.google.com/file/d/1stUJJdrlBA3TO0cccpEtlx4UeATUu8Z1/view?ts=6078caf3
+4. собранный датасет 'df_cars_final.csv' весит 180 MB(в сжатом виде 30 MB), что превышает допустимый размер файла до 100 MB (в сжатом виде до 25 MB), и  не может быть загружен на GitHub, прилагаем ссылку для скачивания: https://drive.google.com/file/d/1stUJJdrlBA3TO0cccpEtlx4UeATUu8Z1/view?ts=6078caf3
 
 
