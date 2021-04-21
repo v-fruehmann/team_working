@@ -1,5 +1,5 @@
 Проект_6: Предсказание стоимости автомобилей по их характеристикам
-Проект выполнялся командой, в которую вошли: Сергей Фадеев(fadeevsu@gmail.com, ник на Kaggle - SergeyFad), Варвара Фрюманн(v.fruehmann@ gmail.com, ник на Kaggle - cheguevarja), Слава (apc0808@yandex.ru, ник на Kaggle - Slava). Название команды на Kaggle - Slava (ссылка на ноутбук: https://www.kaggle.com/sergeyfad/notebook1b39451151).
+Проект выполнялся командой, в которую вошли: Сергей Фадеев(fadeevsu@gmail.com, ник на Kaggle - SergeyFad), Варвара Фрюманн(v.fruehmann@ gmail.com, ник на Kaggle - cheguevarja), Слава (apc0808@yandex.ru, ник на Kaggle - Slava). Название команды на Kaggle - Slava (ссылка на ноутбук: https://www.kaggle.com/varvarafreeman/car-prediction-project-6).
 
 Цель проекта: обучить лучшую модель для предсказания цен на автомобили на auto.ru
 Проект разбит на несколько частей: 
