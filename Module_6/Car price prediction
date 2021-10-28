@@ -1,0 +1,1 @@
+Car price prediction model based on cars features (BeautifulSoup for parcing, CatBoost, DecisionTree, RandomForest, ExtraTrees, Bagging, stacking)
